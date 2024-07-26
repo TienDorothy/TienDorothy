@@ -8,11 +8,12 @@
 - [Web e-commerce apple](https://e-commerce-client-react.vercel.app/)
 
   [Admin e-commerce](https://admin-e-commerce-nodejs-mongodb.vercel.app/)
-
+- [POKEMON REVIEW MANAGAMENT API ](https://github.com/TienDorothy/api-asp.net-v1-review-app)
 - [Web order food](https://team9.hdweb.vn/login)
 - [Web booking](https://web-booking-hotel-v1-nodejs-mongose.vercel.app/)
   [Admin booking](https://admin-booking-hotel-v1-nodejs-mongose.vercel.app/)
 - [Web movie](https://web-movie-demo-react.netlify.app/)
+- [Note management api with prisma](https://github.com/TienDorothy/api-nestjs-postgresql-note-v1)
 - [Web natour](https://github.com/tennitien/sass-demo-natour)
 - [Web QLBH](https://github.com/tennitien/demo-quan-ly-ban-hang-django)
 
